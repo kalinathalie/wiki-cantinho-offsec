@@ -4,7 +4,8 @@
 
 ## 1️⃣ Conhecimento Basico
 
-* [🐧 Linux](conhecimento-basico/linux.md)
+* [🐧 Linux](conhecimento-basico/linux/README.md)
+  * [Livros:](conhecimento-basico/linux/livros.md)
 * [💻 Programação](conhecimento-basico/programacao.md)
 * [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores.md)
 
