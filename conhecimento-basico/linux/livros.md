@@ -13,5 +13,7 @@ Para baixar, basta clicar em download, e em seguida selecionar o PDF:
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+### <mark style="color:purple;">Linux Basics for Hackers:</mark>
 
+{% embed url="https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551" %}
 

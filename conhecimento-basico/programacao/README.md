@@ -12,7 +12,7 @@ Existem muitas linguagens de programação, mas para a área de Segurança Ofens
 
 Das linguagens mais antigas, C e C++ são consideradas as mais importantes bases, pois até outras linguagens como JavaScript, Python, C#, Java foram feitas a partir delas. Aprender-las é crucial no ramo da tecnologia da informação, principalmente C, pois estão muito presentes em sistemas operacionais e nos estudos de engenharia reversa e exploração de binários(Arquivos ELF), como exemplo exploração de Kernel. Um pequeno exemplo de um código em C vulnerável a Buffer Overflow:
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -34,7 +34,7 @@ int main (int argc, char** argv){
 
 A linguagem mais prática da atualidade, Python é excelente para desenvolvimento dos mais variados exploits, a maioria dos scripts de Infosec encontrados por aí provavelmente estarão nessa linguagem. Para todas as áreas de TI, Python tem uma biblioteca, muitas vezes usei **selenium** ou **requests** para fazer ataques de automação, inclusive o BurpSuite (Ferramenta de Proxying mais usado em Pentest) consegue transformar requisições em script de Python. Importação da requisição acima para um script em python usando o Burp:
 
-```
+```python
 import requests
 
 burp0_url = "https://dev.exemplo.com:443/app/v1/trocar_senha"
@@ -54,7 +54,7 @@ requests.post(burp0_url, headers=burp0_headers, json=burp0_json)
 
 Linux é bastante importante como já vimos anteriormente, e Shell Scripting nada mais é do que termos uma maneira para combinar e automatizar o interpretador de comandos do sistema operacional. Assim como o Python, scripts em Bash são encontrados em incontáveis cenários tanto para PoCs de CVEs ou qualquer coisa relacionada à servidores Linux, entender isso seria trivial. Exemplo de um exploit em Bash Script:
 
-```
+```sh
 #!/bin/bash
 # Exploit Title: HP Data Protector Remote Root Shell for Linux(CVE-2011-0923)
 # Author: SZ
