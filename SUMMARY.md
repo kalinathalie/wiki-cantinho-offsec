@@ -13,3 +13,7 @@
 * [🔐 Senhas e Criptografia](introducao-ao-pentest/senhas-e-criptografia.md)
 * [🔎 Reconhecimento](introducao-ao-pentest/reconhecimento.md)
 * [⚡ Fuzzing](introducao-ao-pentest/fuzzing.md)
+
+## 3️⃣ Pentest
+
+* [🪟 Windows e Active Directory](pentest/windows-e-active-directory.md)
