@@ -5,8 +5,14 @@
 ## 1️⃣ Conhecimento Basico
 
 * [🐧 Linux](conhecimento-basico/linux/README.md)
-  * [Livros:](conhecimento-basico/linux/livros.md)
-* [💻 Programação](conhecimento-basico/programacao.md)
+  * [Livros](conhecimento-basico/linux/livros.md)
+  * [Cursos](conhecimento-basico/linux/cursos.md)
+  * [Plataformas de estudo](conhecimento-basico/linux/plataformas-de-estudo.md)
+* [💻 Programação](conhecimento-basico/programacao/README.md)
+  * [Cursos](conhecimento-basico/programacao/cursos.md)
+  * [Plataformas de estudo](conhecimento-basico/programacao/plataformas-de-estudo.md)
+  * [Livros](conhecimento-basico/programacao/livros.md)
+  * [Outros tópicos:](conhecimento-basico/programacao/outros-topicos.md)
 * [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores.md)
 
 ## 2️⃣ Introdução ao pentest
