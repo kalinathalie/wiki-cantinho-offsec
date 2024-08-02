@@ -1,6 +1,8 @@
 # Table of contents
 
 * [🪼 Intro](README.md)
+  * [Sobre a wiki](intro/sobre-a-wiki.md)
+  * [Prelúdio - Antes do início](intro/preludio-antes-do-inicio.md)
 
 ## 1️⃣ Conhecimento Basico
 
@@ -18,7 +20,8 @@
 ## 2️⃣ Introdução ao pentest
 
 * [📄 Contextualização](introducao-ao-pentest/contextualizacao.md)
-* [🔐 Senhas e Criptografia](introducao-ao-pentest/senhas-e-criptografia.md)
+* [🔐 Senhas e Criptografia](introducao-ao-pentest/senhas-e-criptografia/README.md)
+  * [Page 1](introducao-ao-pentest/senhas-e-criptografia/page-1.md)
 * [🔎 Reconhecimento](introducao-ao-pentest/reconhecimento.md)
 * [⚡ Fuzzing](introducao-ao-pentest/fuzzing.md)
 
