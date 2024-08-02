@@ -4,7 +4,7 @@ description: >-
   Ofensiva)
 ---
 
-# Welcome
+# 🪼 Intro
 
 ### :closed\_lock\_with\_key: O que é "Cantinho da Infosec"?
 
@@ -18,7 +18,7 @@ Como dito, os conteúdos estão separados por tópicos, dentro desses tópicos �
 
 ### :railway\_track: Quero começar a estudar, como faço?
 
-Bom, como todo o conteudo base necessario para ingressar na area esta dividido aqui por topicos, para iniciar seus estudos voce precisa simplesmente passar pra proxima pagina desse gitbook para acessar o conteudo inicial e a partir dai iniciar seus estudos.
+Bom, como todo o conteúdo base necessário para ingressar na área está dividido aqui por tópicos, para iniciar seus estudos você precisa simplesmente passar pra próxima página desse gitbook para acessar o conteúdo inicial e a partir daí iniciar seus estudos.
 
 ### :point\_up: Quero entrar no Cantinho da Infosec, como faço?
 
@@ -30,6 +30,20 @@ linkedin: [https://www.linkedin.com/in/kali-nathalie/](https://www.linkedin.com/
 
 twitter: [https://x.com/K4L1\_FS](https://x.com/K4L1\_FS)
 
+### :knot: Conheça os instrutores
 
+Dentro da comunidade contamos com instrutores responsáveis por auxiliar as pessoas que estão iniciando sua jornada, tirando dúvidas e indicando caminhos. Eles são:
+
+Kali ([https://www.linkedin.com/in/kali-nathalie/](https://www.linkedin.com/in/kali-nathalie/))\
+Biscoito ([https://www.linkedin.com/in/\~biscoito/](https://www.linkedin.com/in/\~biscoito/))\
+Alexos ([https://www.linkedin.com/in/alexandrosilva/](https://www.linkedin.com/in/alexandrosilva/))\
+Rangel ([https://www.linkedin.com/in/rangel-darosa/](https://www.linkedin.com/in/rangel-darosa/)) \
+Helena ([https://www.linkedin.com/in/helena-carreco/](https://www.linkedin.com/in/helena-carreco/)) \
+Erika ([https://www.linkedin.com/in/erika-finoti/](https://www.linkedin.com/in/erika-finoti/)) \
+Marzano ([https://www.linkedin.com/in/artur-marzano/](https://www.linkedin.com/in/artur-marzano/)) \
+Crash ([https://www.linkedin.com/in/crashbrz/](https://www.linkedin.com/in/crashbrz/))\
+Nutcake ([https://www.linkedin.com/in/apercario/](https://www.linkedin.com/in/apercario/)) \
+Luders ([https://www.linkedin.com/in/caioluders/](https://www.linkedin.com/in/caioluders/))\
+Lilian ([https://www.linkedin.com/in/rosembacklilly/](https://www.linkedin.com/in/rosembacklilly/))
 
 Feito com carinho pela comunidade Cantinho da Infosec <3

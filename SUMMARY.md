@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [🪼 Intro](README.md)
 
 ## 1️⃣ Conhecimento Basico
 
