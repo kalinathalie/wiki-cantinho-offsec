@@ -3,6 +3,7 @@
 * [🪼 Intro](README.md)
   * [Sobre a wiki](intro/sobre-a-wiki.md)
   * [Prelúdio - Antes do início](intro/preludio-antes-do-inicio.md)
+  * [Estrutura do Roadmap](intro/estrutura-do-roadmap.md)
 
 ## 1️⃣ Conhecimento Basico
 
@@ -17,13 +18,13 @@
   * [Outros tópicos:](conhecimento-basico/programacao/outros-topicos.md)
 * [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores.md)
 
-## 2️⃣ Introdução ao pentest
+## 2️⃣ Metodologia do penteste
 
-* [📄 Contextualização](introducao-ao-pentest/contextualizacao.md)
-* [🔐 Senhas e Criptografia](introducao-ao-pentest/senhas-e-criptografia/README.md)
-  * [Page 1](introducao-ao-pentest/senhas-e-criptografia/page-1.md)
-* [🔎 Reconhecimento](introducao-ao-pentest/reconhecimento.md)
-* [⚡ Fuzzing](introducao-ao-pentest/fuzzing.md)
+* [📄 Contextualização](metodologia-do-penteste/contextualizacao.md)
+* [🔐 Senhas e Criptografia](metodologia-do-penteste/senhas-e-criptografia/README.md)
+  * [Page 1](metodologia-do-penteste/senhas-e-criptografia/page-1.md)
+* [🔎 Reconhecimento](metodologia-do-penteste/reconhecimento.md)
+* [⚡ Fuzzing](metodologia-do-penteste/fuzzing.md)
 
 ## 3️⃣ Pentestes Comuns
 
