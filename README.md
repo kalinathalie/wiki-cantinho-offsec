@@ -46,4 +46,12 @@ Nutcake ([https://www.linkedin.com/in/apercario/](https://www.linkedin.com/in/ap
 Luders ([https://www.linkedin.com/in/caioluders/](https://www.linkedin.com/in/caioluders/))\
 Lilian ([https://www.linkedin.com/in/rosembacklilly/](https://www.linkedin.com/in/rosembacklilly/))
 
+### :writing\_hand: Colaboradores da Wiki
+
+Anna ( [anakan](https://app.gitbook.com/u/Opzr1ROAQvMe7KwTcOtVjOisIr03 "mention") )
+
+Gabs ([m.gabrielly.maciel](https://app.gitbook.com/u/qeZJDtIjNiQHBy5mGFEpZa5zxwm2 "mention"))
+
+
+
 Feito com carinho pela comunidade Cantinho da Infosec <3
