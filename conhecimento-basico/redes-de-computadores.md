@@ -1,2 +1,0 @@
-# 🌐 Redes de Computadores
-

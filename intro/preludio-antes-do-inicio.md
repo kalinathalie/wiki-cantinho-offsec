@@ -14,4 +14,4 @@ Se você chegou até aqui é bem provável que você já saiba o que é Seguran�
 
 ### Times dentro da área
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>

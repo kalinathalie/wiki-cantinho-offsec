@@ -16,7 +16,8 @@
   * [Plataformas de estudo](conhecimento-basico/programacao/plataformas-de-estudo.md)
   * [Livros](conhecimento-basico/programacao/livros.md)
   * [Outros tópicos:](conhecimento-basico/programacao/outros-topicos.md)
-* [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores.md)
+* [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores/README.md)
+  * [Cursos](conhecimento-basico/redes-de-computadores/cursos.md)
 
 ## 2️⃣ Metodologia do penteste
 

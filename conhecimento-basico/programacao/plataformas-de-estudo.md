@@ -8,6 +8,6 @@
 
 {% embed url="https://beecrowd.com/pt/" %}
 
-## Explain Shell:
+## <mark style="color:purple;">Explain Shell:</mark>
 
 {% embed url="https://explainshell.com/" %}
