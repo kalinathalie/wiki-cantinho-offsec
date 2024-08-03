@@ -12,6 +12,8 @@ Dentro da área de segurança da informação existem diversos times e especiali
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Alguns links úteis para entender conceitos gerais
+
 {% embed url="https://community.revelo.com.br/carreira-de-pentester-na-pratica-parte-1/" %}
 
 {% embed url="https://tryhackme.com/path/outline/introtocyber" %}
