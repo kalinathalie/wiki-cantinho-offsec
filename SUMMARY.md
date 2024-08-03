@@ -24,6 +24,7 @@
 
 * [📄 Contextualização](metodologia-do-penteste/contextualizacao/README.md)
   * [Cursos](metodologia-do-penteste/contextualizacao/cursos.md)
+  * [Vídeos Essenciais](metodologia-do-penteste/contextualizacao/videos-essenciais.md)
 * [🔐 Senhas e Criptografia](metodologia-do-penteste/senhas-e-criptografia/README.md)
   * [Cursos](metodologia-do-penteste/senhas-e-criptografia/cursos.md)
   * [Livros](metodologia-do-penteste/senhas-e-criptografia/livros.md)
