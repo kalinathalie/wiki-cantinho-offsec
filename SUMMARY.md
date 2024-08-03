@@ -22,7 +22,8 @@
 
 ## 2️⃣ Metodologia do penteste
 
-* [📄 Contextualização](metodologia-do-penteste/contextualizacao.md)
+* [📄 Contextualização](metodologia-do-penteste/contextualizacao/README.md)
+  * [Cursos](metodologia-do-penteste/contextualizacao/cursos.md)
 * [🔐 Senhas e Criptografia](metodologia-do-penteste/senhas-e-criptografia/README.md)
   * [Cursos](metodologia-do-penteste/senhas-e-criptografia/cursos.md)
   * [Plataformas de estudo](metodologia-do-penteste/senhas-e-criptografia/plataformas-de-estudo.md)
