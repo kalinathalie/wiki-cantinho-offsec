@@ -8,7 +8,7 @@ description: >-
 
 ### :closed\_lock\_with\_key: O que é "Cantinho da Infosec"?
 
-Somos uma comunidade brasileira e projeto social voltado para mulheres e pessoas trans em formato de servidor do Discord focado em Segurança da Informação (principalmente segurança ofensiva, vulgo OffSec), contando com monitorias, workshops e troca de conhecimento para atingir o objetivo central: impulsionar a entrada de minorias na área de Segurança da Informação.
+Somos uma comunidade brasileira e projeto social voltado para **mulheres e pessoas trans** em formato de servidor do Discord focado em Segurança da Informação (principalmente segurança ofensiva, vulgo OffSec), contando com monitorias, workshops e troca de conhecimento para atingir o objetivo central: impulsionar a entrada de minorias na área de Segurança da Informação.
 
 ### :checkered\_flag: Intuito e Motivação
 
@@ -48,6 +48,6 @@ Lilian ([https://www.linkedin.com/in/rosembacklilly/](https://www.linkedin.com/i
 
 ### :writing\_hand: Colaboradores da Wiki
 
-Anna ( [anakan](https://app.gitbook.com/u/Opzr1ROAQvMe7KwTcOtVjOisIr03 "mention") )
+Anna ([https://www.linkedin.com/in/annaluizando/](https://www.linkedin.com/in/annaluizando/))
 
-Gabs ([m.gabrielly.maciel](https://app.gitbook.com/u/qeZJDtIjNiQHBy5mGFEpZa5zxwm2 "mention"))
+Gabs

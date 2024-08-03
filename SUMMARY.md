@@ -36,7 +36,10 @@
 
 ## 3️⃣ Pentestes Comuns
 
-* [🪟 Windows e Active Directory](pentestes-comuns/windows-e-active-directory.md)
+* [🪟 Windows e Active Directory](pentestes-comuns/windows-e-active-directory/README.md)
+  * [Plataformas de Estudo](pentestes-comuns/windows-e-active-directory/plataformas-de-estudo.md)
+  * [Ferramentas para ataques em AD](pentestes-comuns/windows-e-active-directory/ferramentas-para-ataques-em-ad.md)
+  * [Conteúdos Adicionais](pentestes-comuns/windows-e-active-directory/conteudos-adicionais.md)
 * [🖥️ Network](pentestes-comuns/network.md)
 * [🕸️ Web](pentestes-comuns/web.md)
   * [Conteúdos Adicionais](pentestes-comuns/web/conteudos-adicionais.md)
