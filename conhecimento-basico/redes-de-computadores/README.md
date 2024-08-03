@@ -4,7 +4,7 @@ Entender como as redes de computadores e seus protocolos funcionam é essencial 
 \
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 O [TCP/IP](https://pt.wikipedia.org/wiki/TCP/IP), que se trata do acrônimo dos protocolos **TCP (Transmission Control Protocol)** e **IP (Internet Protocol)**, é o responsável pela base de envio e recebimento de dados por toda a internet. Essa pilha de protocolos é dividida em 5 camadas (em referência ao [RFC1392](https://www.rfc-editor.org/rfc/rfc1392)):
 
@@ -18,7 +18,7 @@ Já o modelo [OSI](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi) é 
 \
 Com o [WireShark](https://www.wireshark.org/) é possível interceptar o tráfego de rede e ver na prática como todas essas camadas trafegam:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Agora vamos dar uma olhada nos principais protocolos:
 
@@ -30,7 +30,7 @@ O protocolo **IP** (Internet Protocol) faz parte da camada de internet e é um d
 
 O protocolo **TCP** (Transmission Control Protocol) é o mais utilizado na camada de transporte para aplicações Web. Em resumo, para estabelecer uma conexão, é utilizado o _three-way handshake_ (acordo de três vias).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Por conta da demora envolvida no _handshake_ do TCP, o **UDP (User Datagram Protocol)** acaba sendo mais rápido, porém menos seguro. Esse protocolo é o mais usado em softwares de **Streaming** e **VoIP** **(Voice over Internet Protocol)** como o **Discord, Skype, Twitch e Netflix**.
 
