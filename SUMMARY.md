@@ -26,9 +26,9 @@
   * [Cursos](metodologia-do-penteste/contextualizacao/cursos.md)
 * [🔐 Senhas e Criptografia](metodologia-do-penteste/senhas-e-criptografia/README.md)
   * [Cursos](metodologia-do-penteste/senhas-e-criptografia/cursos.md)
+  * [Livros](metodologia-do-penteste/senhas-e-criptografia/livros.md)
   * [Plataformas de estudo](metodologia-do-penteste/senhas-e-criptografia/plataformas-de-estudo.md)
   * [Conteúdos Adicionais](metodologia-do-penteste/senhas-e-criptografia/conteudos-adicionais.md)
-  * [Livros](metodologia-do-penteste/senhas-e-criptografia/livros.md)
 * [🔎 Reconhecimento](metodologia-do-penteste/reconhecimento.md)
 * [⚡ Fuzzing](metodologia-do-penteste/fuzzing.md)
 
