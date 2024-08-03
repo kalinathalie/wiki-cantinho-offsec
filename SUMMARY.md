@@ -31,7 +31,8 @@
 
 * [🪟 Windows e Active Directory](pentestes-comuns/windows-e-active-directory.md)
 * [🖥️ Network](pentestes-comuns/network.md)
-* [🕸️ Web](pentestes-comuns/web.md)
+* [🕸️ Web](pentestes-comuns/web/README.md)
+  * [Conteúdos Adicionais](pentestes-comuns/web/conteudos-adicionais.md)
 
 ## 4️⃣ Pentestes Pontuais
 
