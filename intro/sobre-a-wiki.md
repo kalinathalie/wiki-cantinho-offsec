@@ -14,7 +14,9 @@ Somos uma comunidade brasileira e projeto social voltado para **mulheres e pesso
 
 Essa wiki foi feita com o intuito de expor melhor os tópicos e conteúdos separados pela comunidade "Cantinho da Infosec" (que também estão disponíveis no servidor do discord em forma de canais), a fim de facilitar o processo de estudo e aprendizado daqueles que desejam começar e/ou aumentar seu conhecimento na area de segurança da informação.
 
-Como dito, os conteúdos estão separados por tópicos, dentro desses tópicos é possível observar conteúdos gratuitos para estudo.
+Como dito, os conteúdos estão separados por tópicos, dentro desses tópicos é possível observar conteúdos gratuitos para estudo.\
+\
+<mark style="color:red;">**Reforçamos que o intuito dessa wiki/repositório é exclusiva e unicamente educacional.**</mark>
 
 ### :railway\_track: Quero começar a estudar, como faço?
 
