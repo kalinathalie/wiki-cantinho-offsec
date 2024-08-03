@@ -11,3 +11,7 @@
 ## <mark style="color:purple;">Explain Shell:</mark>
 
 {% embed url="https://explainshell.com/" %}
+
+## <mark style="color:purple;">CodeWars:</mark>
+
+{% embed url="https://www.codewars.com" %}
