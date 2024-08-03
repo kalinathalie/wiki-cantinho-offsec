@@ -24,7 +24,10 @@
 
 * [📄 Contextualização](metodologia-do-penteste/contextualizacao.md)
 * [🔐 Senhas e Criptografia](metodologia-do-penteste/senhas-e-criptografia/README.md)
-  * [Page 1](metodologia-do-penteste/senhas-e-criptografia/page-1.md)
+  * [Cursos](metodologia-do-penteste/senhas-e-criptografia/cursos.md)
+  * [Plataformas de estudo](metodologia-do-penteste/senhas-e-criptografia/plataformas-de-estudo.md)
+  * [Conteúdos Adicionais](metodologia-do-penteste/senhas-e-criptografia/conteudos-adicionais.md)
+  * [Livros](metodologia-do-penteste/senhas-e-criptografia/livros.md)
 * [🔎 Reconhecimento](metodologia-do-penteste/reconhecimento.md)
 * [⚡ Fuzzing](metodologia-do-penteste/fuzzing.md)
 
@@ -42,5 +45,6 @@
 
 ## 5️⃣ Outros
 
-* [🐉 Engenharia Reversa](outros/engenharia-reversa.md)
+* [🐉 Engenharia Reversa](outros/engenharia-reversa/README.md)
+  * [Conteúdos Adicionais](outros/engenharia-reversa/conteudos-adicionais.md)
 * [🗣️ Soft Skills](outros/soft-skills.md)
