@@ -36,6 +36,7 @@
   * [Reconhecimento Passivo](metodologia-do-penteste/reconhecimento/reconhecimento-passivo.md)
 * [⚡ Fuzzing](metodologia-do-penteste/fuzzing/README.md)
   * [Ferramentas](metodologia-do-penteste/fuzzing/ferramentas.md)
+  * [Plataformas de Estudo](metodologia-do-penteste/fuzzing/plataformas-de-estudo.md)
 
 ## 3️⃣ Pentestes Comuns
 
