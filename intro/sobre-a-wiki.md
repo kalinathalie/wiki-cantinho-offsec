@@ -26,7 +26,7 @@ Bom, como todo o conteúdo base necessário para ingressar na área está dividi
 
 ### :point\_up: Quero entrar no Cantinho da Infosec, como faço?
 
-Como servidor atualmente é privado, para ingressar nele, você precisa falar com a Kali, fundadora da comunidade, por alguma das duas redes sociais dela, no qual os links estão abaixo, informando seu desejo de fazer parte da iniciativa.
+Como o servidor atualmente é privado, para ingressar nele, você precisa falar com a Kali, fundadora da comunidade, por alguma das duas redes sociais dela, no qual os links estão abaixo, informando seu desejo de fazer parte da iniciativa.
 
 Redes Sociais da Kali Nathalie:
 
