@@ -47,7 +47,10 @@
 
 ## 4️⃣ Pentestes Pontuais
 
-* [📱 Mobile Android](pentestes-pontuais/mobile-android.md)
+* [📱 Mobile Android](pentestes-pontuais/mobile-android/README.md)
+  * [Cursos](pentestes-pontuais/mobile-android/cursos.md)
+  * [Ferramentas Essenciais](pentestes-pontuais/mobile-android/ferramentas-essenciais.md)
+  * [Conteúdos Adicionais](pentestes-pontuais/mobile-android/conteudos-adicionais.md)
 * [🍎 Mobile iOS](pentestes-pontuais/mobile-ios.md)
 
 ## 5️⃣ Outros
