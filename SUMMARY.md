@@ -58,3 +58,7 @@
 * [🐉 Engenharia Reversa](outros/engenharia-reversa/README.md)
   * [Conteúdos Adicionais](outros/engenharia-reversa/conteudos-adicionais.md)
 * [🗣️ Soft Skills](outros/soft-skills.md)
+
+***
+
+* [👋 Considerações Finais](consideracoes-finais.md)

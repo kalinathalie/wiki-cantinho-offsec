@@ -2,7 +2,7 @@
 
 Para aqueles que tem dificuldade de comunicação, dentro do servidor há a possibilidade de marcar/combinar calls para treinar conversação, seja em inglês ou simulando uma entrevista em portugues, a fim de aprimorar cada vez mais a habilidade de se expressar de forma clara e concisa e impulsionar o desempenho em possíveis processos seletivos.
 
-## <mark style="color:purple;">Perguntas que geralmente podem ser feitas em entrevistas de emprego</mark>
+## <mark style="color:purple;">Perguntas possíveis de serem feitas em entrevistas de emprego</mark>
 
 <details>
 
