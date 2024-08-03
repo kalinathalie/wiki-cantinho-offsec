@@ -24,7 +24,7 @@ Bom, como todo o conteúdo base necessário para ingressar na área está dividi
 
 Como servidor atualmente é privado, para ingressar nele, você precisa falar com a Kali, fundadora da comunidade, por alguma das duas redes sociais dela, no qual os links estão abaixo, informando seu desejo de fazer parte da iniciativa.
 
-Redes Sociais da [Kali Nathalie](https://app.gitbook.com/u/N8JBx3EpDPYwFpgceSMiovETcoF2 "mention"):
+Redes Sociais da Kali Nathalie:
 
 linkedin: [https://www.linkedin.com/in/kali-nathalie/](https://www.linkedin.com/in/kali-nathalie/)
 
