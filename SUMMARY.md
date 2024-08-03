@@ -30,6 +30,7 @@
   * [Livros](metodologia-do-penteste/senhas-e-criptografia/livros.md)
   * [Plataformas de estudo](metodologia-do-penteste/senhas-e-criptografia/plataformas-de-estudo.md)
   * [Conteúdos Adicionais](metodologia-do-penteste/senhas-e-criptografia/conteudos-adicionais.md)
+  * [Ferramentas Essenciais](metodologia-do-penteste/senhas-e-criptografia/ferramentas-essenciais.md)
 * [🔎 Reconhecimento](metodologia-do-penteste/reconhecimento/README.md)
   * [Reconhecimento Ativo](metodologia-do-penteste/reconhecimento/reconhecimento-ativo.md)
   * [Reconhecimento Passivo](metodologia-do-penteste/reconhecimento/reconhecimento-passivo.md)
