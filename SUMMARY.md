@@ -30,8 +30,8 @@
   * [Plataformas de estudo](metodologia-do-penteste/senhas-e-criptografia/plataformas-de-estudo.md)
   * [Conteúdos Adicionais](metodologia-do-penteste/senhas-e-criptografia/conteudos-adicionais.md)
 * [🔎 Reconhecimento](metodologia-do-penteste/reconhecimento/README.md)
-  * [Reconhecimento Passivo](metodologia-do-penteste/reconhecimento/reconhecimento-passivo.md)
   * [Reconhecimento Ativo](metodologia-do-penteste/reconhecimento/reconhecimento-ativo.md)
+  * [Reconhecimento Passivo](metodologia-do-penteste/reconhecimento/reconhecimento-passivo.md)
 * [⚡ Fuzzing](metodologia-do-penteste/fuzzing/README.md)
   * [Ferramentas](metodologia-do-penteste/fuzzing/ferramentas.md)
 
