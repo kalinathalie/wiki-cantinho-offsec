@@ -8,16 +8,17 @@
 ## 1️⃣ Conhecimento Basico
 
 * [🐧 Linux](conhecimento-basico/linux/README.md)
-  * [Livros](conhecimento-basico/linux/livros.md)
   * [Cursos](conhecimento-basico/linux/cursos.md)
+  * [Livros](conhecimento-basico/linux/livros.md)
   * [Plataformas de estudo](conhecimento-basico/linux/plataformas-de-estudo.md)
 * [💻 Programação](conhecimento-basico/programacao/README.md)
   * [Cursos](conhecimento-basico/programacao/cursos.md)
-  * [Plataformas de estudo](conhecimento-basico/programacao/plataformas-de-estudo.md)
   * [Livros](conhecimento-basico/programacao/livros.md)
+  * [Plataformas de estudo](conhecimento-basico/programacao/plataformas-de-estudo.md)
   * [Outros tópicos:](conhecimento-basico/programacao/outros-topicos.md)
 * [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores/README.md)
   * [Cursos](conhecimento-basico/redes-de-computadores/cursos.md)
+  * [Livros](conhecimento-basico/redes-de-computadores/livros.md)
 
 ## 2️⃣ Metodologia do penteste
 
@@ -31,7 +32,7 @@
 
 * [🪟 Windows e Active Directory](pentestes-comuns/windows-e-active-directory.md)
 * [🖥️ Network](pentestes-comuns/network.md)
-* [🕸️ Web](pentestes-comuns/web/README.md)
+* [🕸️ Web](pentestes-comuns/web.md)
   * [Conteúdos Adicionais](pentestes-comuns/web/conteudos-adicionais.md)
 
 ## 4️⃣ Pentestes Pontuais
