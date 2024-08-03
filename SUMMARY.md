@@ -15,7 +15,7 @@
   * [Cursos](conhecimento-basico/programacao/cursos.md)
   * [Livros](conhecimento-basico/programacao/livros.md)
   * [Plataformas de estudo](conhecimento-basico/programacao/plataformas-de-estudo.md)
-  * [Outros tópicos:](conhecimento-basico/programacao/outros-topicos.md)
+  * [Outros tópicos](conhecimento-basico/programacao/outros-topicos.md)
 * [🌐 Redes de Computadores](conhecimento-basico/redes-de-computadores/README.md)
   * [Cursos](conhecimento-basico/redes-de-computadores/cursos.md)
   * [Livros](conhecimento-basico/redes-de-computadores/livros.md)
@@ -32,7 +32,8 @@
 * [🔎 Reconhecimento](metodologia-do-penteste/reconhecimento/README.md)
   * [Reconhecimento Passivo](metodologia-do-penteste/reconhecimento/reconhecimento-passivo.md)
   * [Reconhecimento Ativo](metodologia-do-penteste/reconhecimento/reconhecimento-ativo.md)
-* [⚡ Fuzzing](metodologia-do-penteste/fuzzing.md)
+* [⚡ Fuzzing](metodologia-do-penteste/fuzzing/README.md)
+  * [Ferramentas](metodologia-do-penteste/fuzzing/ferramentas.md)
 
 ## 3️⃣ Pentestes Comuns
 
