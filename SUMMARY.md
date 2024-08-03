@@ -58,6 +58,9 @@
 ## 5️⃣ Outros
 
 * [🐉 Engenharia Reversa](outros/engenharia-reversa/README.md)
+  * [Cursos](outros/engenharia-reversa/cursos.md)
+  * [Ferramentas Essenciais](outros/engenharia-reversa/ferramentas-essenciais.md)
+  * [Plataformas de Estudo](outros/engenharia-reversa/plataformas-de-estudo.md)
   * [Conteúdos Adicionais](outros/engenharia-reversa/conteudos-adicionais.md)
 * [🗣️ Soft Skills](outros/soft-skills.md)
 

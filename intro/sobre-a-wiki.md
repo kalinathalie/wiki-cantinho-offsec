@@ -12,7 +12,9 @@ Somos uma comunidade brasileira e projeto social voltado para **mulheres e pesso
 
 ### :checkered\_flag: Intuito e Motivação
 
-Essa wiki foi feita com o intuito de expor melhor os tópicos e conteúdos separados pela comunidade "Cantinho da Infosec" (que também estão disponíveis no servidor do discord em forma de canais), a fim de facilitar o processo de estudo e aprendizado daqueles que desejam começar e/ou aumentar seu conhecimento na area de segurança da informação.
+Essa wiki foi feita com o intuito de expor melhor os tópicos e conteúdos separados pela comunidade "Cantinho da Infosec" (que também estão disponíveis no servidor do discord em forma de canais), a fim de facilitar o processo de estudo e aprendizado daqueles que desejam começar e/ou aumentar seu conhecimento na area de segurança da informação.\
+\
+<mark style="color:red;">**Foi percebido que muitos outros roadmaps disponíveis na internet possuem muitos conteúdos, e muitos destes conteúdos são desnecessários**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**fazendo com**</mark> <mark style="color:red;">**que inclusive, em grande parte das vezes, acabem assustando quem está iniciando.**</mark> Em vista disto, um dos objetivos deste roadmap é ser acolhedor e mostrar que é totalmente possível estudar o cronograma num tempo razoável, priorizando os tópicos mais importantes.
 
 Como dito, os conteúdos estão separados por tópicos, dentro desses tópicos é possível observar conteúdos gratuitos para estudo.\
 \
