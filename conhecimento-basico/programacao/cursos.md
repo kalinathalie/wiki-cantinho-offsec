@@ -4,19 +4,35 @@ description: Aqui, você encontrará cursos online disponíveis gratuitamente no
 
 # Cursos
 
-## <mark style="color:purple;">Python</mark>
+## <mark style="color:purple;">Python:</mark>
 
-**Roadmap:** [https://roadmap.sh/python](https://roadmap.sh/python)
+{% embed url="https://www.codecademy.com/learn/learn-python-3" %}
 
-### Curso em Vídeo:
+{% embed url="https://www.w3schools.com/python/" %}
 
-{% embed url="https://youtu.be/S9uPNppGsGo?si=7H7F6pEO-mNlSxoB" %}
+<details>
 
-{% embed url="https://youtu.be/nJkVHusJp6E?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye" %}
+<summary><strong>Curso em Vídeo</strong></summary>
 
-{% embed url="https://youtu.be/0LB3FSfjvao?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH" %}
+O curso é ministrado pelo professor Guanabra e dividido em três módulos, disponível em aulas que alternam entre teoria e exercícios. Clique no título "módulo" desejado para a página redirecionar para a playlist no youtube.
 
-## <mark style="color:purple;">C</mark>
+#### [<mark style="color:green;">Módulo 01:</mark>](https://www.youtube.com/watch?v=S9uPNppGsGo\&list=PLHz\_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+
+Neste primeiro contato, você vai aprender a instalar a IDLE do Python, tipos primitivos, operadores aritméticos, estruturas condicionais e resolver alguns exercícios.
+
+#### [<mark style="color:green;">Módulo 02:</mark>](https://www.youtube.com/watch?v=nJkVHusJp6E\&list=PLHz\_AreHm4dk\_nZHmxxf\_J0WRAqy5Czye)
+
+Aqui, você irá aprender condições aninhadas, estruturas de repetição e realizar alguns exercícios.
+
+#### [<mark style="color:green;">Módulo 03:</mark>](https://www.youtube.com/watch?v=0LB3FSfjvao\&list=PLHz\_AreHm4dksnH2jVTIVNviIMBVYyFnH)&#x20;
+
+Neste módulo, as aulas abordam sobre os conceitos de tuplas, listas, dicionários e funções.
+
+</details>
+
+***
+
+## <mark style="color:purple;">C:</mark>
 
 **Roadmap:** [https://roadmap.sh/cpp](https://roadmap.sh/cpp)
 
@@ -26,7 +42,7 @@ description: Aqui, você encontrará cursos online disponíveis gratuitamente no
 
 ### **eXcript - Linguagem C:**
 
-{% embed url="https://youtu.be/LB9YMmmfnyc?si=AqdwTKM6TVOBX1Ax" %}
+{% embed url="https://youtu.be/LB9YMmmfnyc?si=AqdwTKM6TVOBX1Ax" fullWidth="true" %}
 
 ## <mark style="color:purple;">Bash</mark>
 
