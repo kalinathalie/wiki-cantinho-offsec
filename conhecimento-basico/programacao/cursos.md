@@ -4,7 +4,7 @@ description: Aqui, você encontrará cursos online disponíveis gratuitamente no
 
 # Cursos
 
-## <mark style="color:purple;">Python:</mark>
+<mark style="color:purple;">Python:</mark>
 
 {% embed url="https://www.codecademy.com/learn/learn-python-3" %}
 
@@ -36,17 +36,39 @@ Neste módulo, as aulas abordam sobre os conceitos de tuplas, listas, dicionári
 
 **Roadmap:** [https://roadmap.sh/cpp](https://roadmap.sh/cpp)
 
-### **Pietro Martins - Linguagem C:**&#x20;
+<details>
 
-{% embed url="https://youtu.be/2w8GYzBjNj8?si=MU8xPtRFhodreOBd" %}
+<summary>Linguagem C  - Pietro Martins</summary>
 
-### **eXcript - Linguagem C:**
+[https://www.youtube.com/watch?v=2w8GYzBjNj8\&list=PLpaKFn4Q4GMOBAeqC1S5\_Fna\_Y5XaOQS2](https://www.youtube.com/watch?v=2w8GYzBjNj8\&list=PLpaKFn4Q4GMOBAeqC1S5\_Fna\_Y5XaOQS2)&#x20;
 
-{% embed url="https://youtu.be/LB9YMmmfnyc?si=AqdwTKM6TVOBX1Ax" fullWidth="true" %}
+
+
+</details>
+
+<details>
+
+<summary>Linguagem C - eXcript</summary>
+
+[https://www.youtube.com/watch?v=FH7YrE0RjWE\&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4](https://www.youtube.com/watch?v=FH7YrE0RjWE\&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)&#x20;
+
+
+
+
+
+</details>
+
+
 
 ## <mark style="color:purple;">Bash</mark>
 
-### **Debxp:**
+<details>
 
-{% embed url="https://youtu.be/yHDzFRWmLGA?si=QjijCsYi4zPY6IqS" %}
+<summary>debxp</summary>
+
+[https://www.youtube.com/watch?v=yHDzFRWmLGA](https://www.youtube.com/watch?v=yHDzFRWmLGA)
+
+
+
+</details>
 
