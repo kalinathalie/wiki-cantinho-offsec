@@ -8,7 +8,7 @@ description: >-
 
 ### :closed\_lock\_with\_key: O que é "Cantinho da Infosec"?
 
-Somos uma comunidade brasileira e projeto social voltado para **mulheres e pessoas trans** em formato de servidor do Discord focado em Segurança da Informação (principalmente segurança ofensiva, vulgo OffSec), contando com monitorias, workshops e troca de conhecimento para atingir o objetivo central: impulsionar a entrada de minorias na área de Segurança da Informação.
+Somos uma comunidade brasileira e projeto social voltado para <mark style="color:red;">**mulheres e pessoas trans**</mark> em formato de servidor do Discord focado em Segurança da Informação (principalmente segurança ofensiva, vulgo OffSec), contando com monitorias, workshops e troca de conhecimento para atingir o objetivo central: impulsionar a entrada de minorias na área de Segurança da Informação.
 
 ### :checkered\_flag: Intuito e Motivação
 
@@ -26,7 +26,7 @@ Bom, como todo o conteúdo base necessário para ingressar na área está dividi
 
 ### :point\_up: Quero entrar no Cantinho da Infosec, como faço?
 
-Como o servidor atualmente é privado, para ingressar nele, você precisa falar com a Kali, fundadora da comunidade, por alguma das duas redes sociais dela, no qual os links estão abaixo, informando seu desejo de fazer parte da iniciativa.
+Como o servidor atualmente é privado, para ingressar nele, você precisa falar com a Kali, fundadora da comunidade, por alguma das duas redes sociais dela, no qual os links estão abaixo, informando seu desejo de fazer parte da iniciativa. Por favor, leve em consideração que <mark style="color:red;">**o projeto é para mulheres e também para pessoas trans**</mark>.
 
 Redes Sociais da Kali Nathalie:
 
